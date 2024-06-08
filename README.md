@@ -2,8 +2,6 @@
 
 This is a solution to the [Contact form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -24,14 +22,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://alextuchkov.github.io/contact-form-main/))
 
 
