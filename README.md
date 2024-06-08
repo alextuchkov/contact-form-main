@@ -22,6 +22,6 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://alextuchkov.github.io/contact-form-main/))
+- Live Site URL: [Contact form](https://your-live-site-url.com](https://alextuchkov.github.io/contact-form-main/))
 
 
